@@ -38,15 +38,7 @@ O sistema foi construído com foco em organização, escalabilidade e facilidade
 | agendamento | Agendamentos de serviços automotivos |
 | servico | Catálogo de serviços disponíveis |
 | financiamento | Propostas e contratos de financiamento |
-| fornecedor | Fornecedores de veículos |
-
-### 🔗 Relacionamentos (visão geral)
-Cliente ←→ Venda ←→ Veículo ←→ Fornecedor
-↑ ↑ ↑
-Agendamento Financiamento Funcionário
-↓
-Serviço
-
+| fornecedor | Fornecedores de veículos 
 
 ---
 
